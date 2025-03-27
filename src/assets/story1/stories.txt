@@ -1,0 +1,5 @@
+cover:
+texte du cover
+
+image1_text:
+texte associé à l'image 1
